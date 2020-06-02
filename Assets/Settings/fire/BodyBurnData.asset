@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccaebc65a27f93041b32f4bfd4d58053, type: 3}
+  m_Name: BodyBurnData
+  m_EditorClassIdentifier: 
+  type: 0
+  attachPrefabsDamage:
+  - {fileID: 3673211583033520938, guid: 91acac33618c4c749b011038dbec913e, type: 3}
+  attachPrefabs:
+  - {fileID: 3673211583033520938, guid: 6e2fac75b27681843bd7394143887c0f, type: 3}
+  attachChance: 0.1
+  attachLifetime: 5
+  spawnTimeDrag: 0.975
+  minimalSpawnTime: 0.1
+  spawnTimeIncrease: 0.05

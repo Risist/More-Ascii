@@ -1,0 +1,7807 @@
+fileFormatVersion: 2
+guid: 9e3fa09d2d2af244c863dd3b8a18befb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6412929446052693294
+    second: ZnakiSprogowane_0
+  - first:
+      213: 3163875236324594277
+    second: ZnakiSprogowane_1
+  - first:
+      213: -8979046877324641233
+    second: ZnakiSprogowane_2
+  - first:
+      213: -302350598850378285
+    second: ZnakiSprogowane_3
+  - first:
+      213: -1959380969317732228
+    second: ZnakiSprogowane_4
+  - first:
+      213: 7407616756313756085
+    second: ZnakiSprogowane_5
+  - first:
+      213: 8790751866911099239
+    second: ZnakiSprogowane_6
+  - first:
+      213: 4411850108406892278
+    second: ZnakiSprogowane_7
+  - first:
+      213: -6920918108783086658
+    second: ZnakiSprogowane_8
+  - first:
+      213: 7193739446400519673
+    second: ZnakiSprogowane_9
+  - first:
+      213: -6452935674415100378
+    second: ZnakiSprogowane_10
+  - first:
+      213: -9017319537477383074
+    second: ZnakiSprogowane_11
+  - first:
+      213: 3978531869341213934
+    second: ZnakiSprogowane_12
+  - first:
+      213: -6164375089640583046
+    second: ZnakiSprogowane_13
+  - first:
+      213: -9048010267823847227
+    second: ZnakiSprogowane_14
+  - first:
+      213: -6870353536903891722
+    second: ZnakiSprogowane_15
+  - first:
+      213: 3449695187585771021
+    second: ZnakiSprogowane_16
+  - first:
+      213: 7919177150801981
+    second: ZnakiSprogowane_17
+  - first:
+      213: -1337599428771449265
+    second: ZnakiSprogowane_18
+  - first:
+      213: 1557155641575932181
+    second: ZnakiSprogowane_19
+  - first:
+      213: -6858637619080054690
+    second: ZnakiSprogowane_20
+  - first:
+      213: 3538240417867512250
+    second: ZnakiSprogowane_21
+  - first:
+      213: 6584255881825284724
+    second: ZnakiSprogowane_22
+  - first:
+      213: 3210334805087973011
+    second: ZnakiSprogowane_23
+  - first:
+      213: -6642938809648734007
+    second: ZnakiSprogowane_24
+  - first:
+      213: -249315164466117206
+    second: ZnakiSprogowane_25
+  - first:
+      213: -2520445184532548024
+    second: ZnakiSprogowane_26
+  - first:
+      213: -5425500594626196236
+    second: ZnakiSprogowane_27
+  - first:
+      213: -4474044325653022353
+    second: ZnakiSprogowane_28
+  - first:
+      213: -5523267235417498749
+    second: ZnakiSprogowane_29
+  - first:
+      213: -2652790269731851282
+    second: ZnakiSprogowane_30
+  - first:
+      213: -3736249564847560875
+    second: ZnakiSprogowane_31
+  - first:
+      213: -6269935793934347204
+    second: ZnakiSprogowane_32
+  - first:
+      213: 4446654922694744221
+    second: ZnakiSprogowane_33
+  - first:
+      213: -4039915637435859384
+    second: ZnakiSprogowane_34
+  - first:
+      213: 6774537742046706334
+    second: ZnakiSprogowane_35
+  - first:
+      213: 8364937798129158689
+    second: ZnakiSprogowane_36
+  - first:
+      213: 4988255687106724381
+    second: ZnakiSprogowane_37
+  - first:
+      213: -8464256765848242393
+    second: ZnakiSprogowane_38
+  - first:
+      213: 2116278932077454066
+    second: ZnakiSprogowane_39
+  - first:
+      213: -5838337074340449567
+    second: ZnakiSprogowane_40
+  - first:
+      213: -3254842930670285289
+    second: ZnakiSprogowane_41
+  - first:
+      213: 5670604704949571164
+    second: ZnakiSprogowane_42
+  - first:
+      213: -144286242275307058
+    second: ZnakiSprogowane_43
+  - first:
+      213: -4856833385773959633
+    second: ZnakiSprogowane_44
+  - first:
+      213: 8818246385202574448
+    second: ZnakiSprogowane_45
+  - first:
+      213: 5756186546017703945
+    second: ZnakiSprogowane_46
+  - first:
+      213: 194508152930979403
+    second: ZnakiSprogowane_47
+  - first:
+      213: 2351458866271434337
+    second: ZnakiSprogowane_48
+  - first:
+      213: 5862591097303485732
+    second: ZnakiSprogowane_49
+  - first:
+      213: -8431489178762115412
+    second: ZnakiSprogowane_50
+  - first:
+      213: -9061217350291167126
+    second: ZnakiSprogowane_51
+  - first:
+      213: 3053858502695171758
+    second: ZnakiSprogowane_52
+  - first:
+      213: 8149564518474402757
+    second: ZnakiSprogowane_53
+  - first:
+      213: -1424637219185425945
+    second: ZnakiSprogowane_54
+  - first:
+      213: -5342827691515541153
+    second: ZnakiSprogowane_55
+  - first:
+      213: -2869419608579587838
+    second: ZnakiSprogowane_56
+  - first:
+      213: -7863120873012594962
+    second: ZnakiSprogowane_57
+  - first:
+      213: 3468715803639865968
+    second: ZnakiSprogowane_58
+  - first:
+      213: 7893462987709793953
+    second: ZnakiSprogowane_59
+  - first:
+      213: -58091447268056527
+    second: ZnakiSprogowane_60
+  - first:
+      213: -4064478999811380931
+    second: ZnakiSprogowane_61
+  - first:
+      213: -6121566889440170531
+    second: ZnakiSprogowane_62
+  - first:
+      213: -4199758521226522324
+    second: ZnakiSprogowane_63
+  - first:
+      213: 6465616665745694738
+    second: ZnakiSprogowane_64
+  - first:
+      213: -5502206388624003836
+    second: ZnakiSprogowane_65
+  - first:
+      213: 1059290424452313437
+    second: ZnakiSprogowane_66
+  - first:
+      213: -8008503882678627316
+    second: ZnakiSprogowane_67
+  - first:
+      213: 6222337573975770915
+    second: ZnakiSprogowane_68
+  - first:
+      213: -2116272276807340519
+    second: ZnakiSprogowane_69
+  - first:
+      213: -941861563118765087
+    second: ZnakiSprogowane_70
+  - first:
+      213: 5621096701976101435
+    second: ZnakiSprogowane_71
+  - first:
+      213: 5230122906311279757
+    second: ZnakiSprogowane_72
+  - first:
+      213: 6845223588160999350
+    second: ZnakiSprogowane_73
+  - first:
+      213: 5821067644058847621
+    second: ZnakiSprogowane_74
+  - first:
+      213: 2642177616751733948
+    second: ZnakiSprogowane_75
+  - first:
+      213: 4588547726054111473
+    second: ZnakiSprogowane_76
+  - first:
+      213: -8522167745395211543
+    second: ZnakiSprogowane_77
+  - first:
+      213: -1252242552346064341
+    second: ZnakiSprogowane_78
+  - first:
+      213: -303044236386781132
+    second: ZnakiSprogowane_79
+  - first:
+      213: 6569100067907554927
+    second: ZnakiSprogowane_80
+  - first:
+      213: -7671400231627789552
+    second: ZnakiSprogowane_81
+  - first:
+      213: -1963667243140471636
+    second: ZnakiSprogowane_82
+  - first:
+      213: -901349638734516450
+    second: ZnakiSprogowane_83
+  - first:
+      213: 5496321442317691088
+    second: ZnakiSprogowane_84
+  - first:
+      213: -3043952356184488574
+    second: ZnakiSprogowane_85
+  - first:
+      213: -3359871980974754083
+    second: ZnakiSprogowane_86
+  - first:
+      213: 6362772526231508655
+    second: ZnakiSprogowane_87
+  - first:
+      213: -3419507081778602122
+    second: ZnakiSprogowane_88
+  - first:
+      213: 2525066585109991957
+    second: ZnakiSprogowane_89
+  - first:
+      213: -6431722999147717576
+    second: ZnakiSprogowane_90
+  - first:
+      213: 913909131468624417
+    second: ZnakiSprogowane_91
+  - first:
+      213: -5927334917152873579
+    second: ZnakiSprogowane_92
+  - first:
+      213: 5193608737491483439
+    second: ZnakiSprogowane_93
+  - first:
+      213: 457567043363785820
+    second: ZnakiSprogowane_94
+  - first:
+      213: 7713959351218814771
+    second: ZnakiSprogowane_95
+  - first:
+      213: 6928703718765376665
+    second: ZnakiSprogowane_96
+  - first:
+      213: -3568692076290426810
+    second: ZnakiSprogowane_97
+  - first:
+      213: 8920252428043263909
+    second: ZnakiSprogowane_98
+  - first:
+      213: 1512236694216560944
+    second: ZnakiSprogowane_99
+  - first:
+      213: -5951816760468025371
+    second: ZnakiSprogowane_100
+  - first:
+      213: 5780611593611878311
+    second: ZnakiSprogowane_101
+  - first:
+      213: 4805784459282283019
+    second: ZnakiSprogowane_102
+  - first:
+      213: 3826470807833619043
+    second: ZnakiSprogowane_103
+  - first:
+      213: 3456589249984317618
+    second: ZnakiSprogowane_104
+  - first:
+      213: -2238506045441296478
+    second: ZnakiSprogowane_105
+  - first:
+      213: 7119698918743658993
+    second: ZnakiSprogowane_106
+  - first:
+      213: -636265638448814824
+    second: ZnakiSprogowane_107
+  - first:
+      213: 3590528128388956549
+    second: ZnakiSprogowane_108
+  - first:
+      213: 1278507463912714147
+    second: ZnakiSprogowane_109
+  - first:
+      213: -3021924791069524102
+    second: ZnakiSprogowane_110
+  - first:
+      213: 2387984330686532487
+    second: ZnakiSprogowane_111
+  - first:
+      213: -8478682504047534809
+    second: ZnakiSprogowane_112
+  - first:
+      213: -5602654917936033212
+    second: ZnakiSprogowane_113
+  - first:
+      213: -4155383080747710889
+    second: ZnakiSprogowane_114
+  - first:
+      213: 7770229416709065548
+    second: ZnakiSprogowane_115
+  - first:
+      213: 8716848645156784272
+    second: ZnakiSprogowane_116
+  - first:
+      213: 2631876654700075847
+    second: ZnakiSprogowane_117
+  - first:
+      213: 5159987636616745668
+    second: ZnakiSprogowane_118
+  - first:
+      213: -3474941841435061516
+    second: ZnakiSprogowane_119
+  - first:
+      213: -3295478602777213094
+    second: ZnakiSprogowane_120
+  - first:
+      213: -9205390849266274655
+    second: ZnakiSprogowane_121
+  - first:
+      213: 2352850963780399991
+    second: ZnakiSprogowane_122
+  - first:
+      213: 4417853882957299980
+    second: ZnakiSprogowane_123
+  - first:
+      213: -4835876676776481148
+    second: ZnakiSprogowane_124
+  - first:
+      213: -6518272593194214770
+    second: ZnakiSprogowane_125
+  - first:
+      213: 7501001803187598321
+    second: ZnakiSprogowane_126
+  - first:
+      213: 693645315480222327
+    second: ZnakiSprogowane_127
+  - first:
+      213: 6561695314136889328
+    second: ZnakiSprogowane_128
+  - first:
+      213: 1952047358729708495
+    second: ZnakiSprogowane_129
+  - first:
+      213: -4414753044928192781
+    second: ZnakiSprogowane_130
+  - first:
+      213: 4716657005188331137
+    second: ZnakiSprogowane_131
+  - first:
+      213: -8060635457883185428
+    second: ZnakiSprogowane_132
+  - first:
+      213: -4979640807972365006
+    second: ZnakiSprogowane_133
+  - first:
+      213: 393271716183785022
+    second: ZnakiSprogowane_134
+  - first:
+      213: 6646534501643699722
+    second: ZnakiSprogowane_135
+  - first:
+      213: -7392377882947340080
+    second: ZnakiSprogowane_136
+  - first:
+      213: 5150160574688712528
+    second: ZnakiSprogowane_137
+  - first:
+      213: -1338831078773631076
+    second: ZnakiSprogowane_138
+  - first:
+      213: -59370210660218434
+    second: ZnakiSprogowane_139
+  - first:
+      213: -2034488648147718344
+    second: ZnakiSprogowane_140
+  - first:
+      213: 4232903252712680153
+    second: ZnakiSprogowane_141
+  - first:
+      213: -7879571314644966241
+    second: ZnakiSprogowane_142
+  - first:
+      213: -1516328168058543146
+    second: ZnakiSprogowane_143
+  - first:
+      213: 4667054255309576933
+    second: ZnakiSprogowane_144
+  - first:
+      213: 4355510482870805151
+    second: ZnakiSprogowane_145
+  - first:
+      213: 243603977268831267
+    second: ZnakiSprogowane_146
+  - first:
+      213: -508008072344935340
+    second: ZnakiSprogowane_147
+  - first:
+      213: 5300339942533073381
+    second: ZnakiSprogowane_148
+  - first:
+      213: -4536193319360499701
+    second: ZnakiSprogowane_149
+  - first:
+      213: 2681921478620601784
+    second: ZnakiSprogowane_150
+  - first:
+      213: 1319487832395794985
+    second: ZnakiSprogowane_151
+  - first:
+      213: 1604738252657532620
+    second: ZnakiSprogowane_152
+  - first:
+      213: -1356604310453196997
+    second: ZnakiSprogowane_153
+  - first:
+      213: -8997034433277202028
+    second: ZnakiSprogowane_154
+  - first:
+      213: 6345748898602154969
+    second: ZnakiSprogowane_155
+  - first:
+      213: -5682261721526067941
+    second: ZnakiSprogowane_156
+  - first:
+      213: -1521653294487979987
+    second: ZnakiSprogowane_157
+  - first:
+      213: -4509619009381823570
+    second: ZnakiSprogowane_158
+  - first:
+      213: 4353196636449719924
+    second: ZnakiSprogowane_159
+  - first:
+      213: -408000266208685599
+    second: ZnakiSprogowane_160
+  - first:
+      213: 4665764368989944002
+    second: ZnakiSprogowane_161
+  - first:
+      213: -7157283446771365292
+    second: ZnakiSprogowane_162
+  - first:
+      213: 2752629763310788907
+    second: ZnakiSprogowane_163
+  - first:
+      213: 3193976653811871989
+    second: ZnakiSprogowane_164
+  - first:
+      213: 6459922065284873370
+    second: ZnakiSprogowane_165
+  - first:
+      213: -8288008136179842224
+    second: ZnakiSprogowane_166
+  - first:
+      213: 2092529251365804153
+    second: ZnakiSprogowane_167
+  - first:
+      213: 2689496742293504274
+    second: ZnakiSprogowane_168
+  - first:
+      213: -5687092303230073266
+    second: ZnakiSprogowane_169
+  - first:
+      213: -8139334117390243131
+    second: ZnakiSprogowane_170
+  - first:
+      213: 6498672062756735167
+    second: ZnakiSprogowane_171
+  - first:
+      213: 7966004000741414357
+    second: ZnakiSprogowane_172
+  - first:
+      213: 8977817009579362184
+    second: ZnakiSprogowane_173
+  - first:
+      213: -7737493838133315366
+    second: ZnakiSprogowane_174
+  - first:
+      213: -6927836192600422596
+    second: ZnakiSprogowane_175
+  - first:
+      213: -3729049430162703657
+    second: ZnakiSprogowane_176
+  - first:
+      213: 1183819006575960845
+    second: ZnakiSprogowane_177
+  - first:
+      213: -9165972896145143974
+    second: ZnakiSprogowane_178
+  - first:
+      213: -6062832241031862396
+    second: ZnakiSprogowane_179
+  - first:
+      213: -2234067498677475694
+    second: ZnakiSprogowane_180
+  - first:
+      213: 3550248877080443101
+    second: ZnakiSprogowane_181
+  - first:
+      213: -8695642645281750970
+    second: ZnakiSprogowane_182
+  - first:
+      213: -2746410200279283529
+    second: ZnakiSprogowane_183
+  - first:
+      213: 9072790351433337772
+    second: ZnakiSprogowane_184
+  - first:
+      213: -9053730075641754792
+    second: ZnakiSprogowane_185
+  - first:
+      213: 1120234197723701828
+    second: ZnakiSprogowane_186
+  - first:
+      213: -5981180526168782110
+    second: ZnakiSprogowane_187
+  - first:
+      213: -3262842313231457331
+    second: ZnakiSprogowane_188
+  - first:
+      213: -5294062354310556758
+    second: ZnakiSprogowane_189
+  - first:
+      213: -1139802575115049285
+    second: ZnakiSprogowane_190
+  - first:
+      213: 4022169676396260928
+    second: ZnakiSprogowane_191
+  - first:
+      213: 593833170742361485
+    second: ZnakiSprogowane_192
+  - first:
+      213: 2673895239730369575
+    second: ZnakiSprogowane_193
+  - first:
+      213: -3972241869420250023
+    second: ZnakiSprogowane_194
+  - first:
+      213: -6271578328063695355
+    second: ZnakiSprogowane_195
+  - first:
+      213: 7360295096612624277
+    second: ZnakiSprogowane_196
+  - first:
+      213: -8290298567676369731
+    second: ZnakiSprogowane_197
+  - first:
+      213: 1352135920548820860
+    second: ZnakiSprogowane_198
+  - first:
+      213: -5678177857740043498
+    second: ZnakiSprogowane_199
+  - first:
+      213: -7837356962193609431
+    second: ZnakiSprogowane_200
+  - first:
+      213: 5813206863353649102
+    second: ZnakiSprogowane_201
+  - first:
+      213: 5732846518433240590
+    second: ZnakiSprogowane_202
+  - first:
+      213: -2174436599965181828
+    second: ZnakiSprogowane_203
+  - first:
+      213: 4129487934037767987
+    second: ZnakiSprogowane_204
+  - first:
+      213: 5064716581171868309
+    second: ZnakiSprogowane_205
+  - first:
+      213: -1346753277315904823
+    second: ZnakiSprogowane_206
+  - first:
+      213: -4248883831277479752
+    second: ZnakiSprogowane_207
+  - first:
+      213: 6869507243787844555
+    second: ZnakiSprogowane_208
+  - first:
+      213: 7827837005268893931
+    second: ZnakiSprogowane_209
+  - first:
+      213: -1455460382588908433
+    second: ZnakiSprogowane_210
+  - first:
+      213: 592242970677426812
+    second: ZnakiSprogowane_211
+  - first:
+      213: -1442999174562747470
+    second: ZnakiSprogowane_212
+  - first:
+      213: -3280437029484965790
+    second: ZnakiSprogowane_213
+  - first:
+      213: -968854759659078081
+    second: ZnakiSprogowane_214
+  - first:
+      213: 3281373585309004012
+    second: ZnakiSprogowane_215
+  - first:
+      213: 2741757977024108270
+    second: ZnakiSprogowane_216
+  - first:
+      213: -1153800867734952398
+    second: ZnakiSprogowane_217
+  - first:
+      213: -2181061139504947965
+    second: ZnakiSprogowane_218
+  - first:
+      213: 5700834841319853141
+    second: ZnakiSprogowane_219
+  - first:
+      213: -6368085830920863039
+    second: ZnakiSprogowane_220
+  - first:
+      213: -8479072941264318589
+    second: ZnakiSprogowane_221
+  - first:
+      213: -437295121607208987
+    second: ZnakiSprogowane_222
+  - first:
+      213: 3461968486071825901
+    second: ZnakiSprogowane_223
+  - first:
+      213: -5643041213893387447
+    second: ZnakiSprogowane_224
+  - first:
+      213: -4326740469140660987
+    second: ZnakiSprogowane_225
+  - first:
+      213: -5480820814935727066
+    second: ZnakiSprogowane_226
+  - first:
+      213: 1351159808222521843
+    second: ZnakiSprogowane_227
+  - first:
+      213: -8153547842376658677
+    second: ZnakiSprogowane_228
+  - first:
+      213: 5647287966145753192
+    second: ZnakiSprogowane_229
+  - first:
+      213: 8141194483796555442
+    second: ZnakiSprogowane_230
+  - first:
+      213: -7543949861077249692
+    second: ZnakiSprogowane_231
+  - first:
+      213: -3034446862011652629
+    second: ZnakiSprogowane_232
+  - first:
+      213: -569743558112372136
+    second: ZnakiSprogowane_233
+  - first:
+      213: 2807302028404087135
+    second: ZnakiSprogowane_234
+  - first:
+      213: 4269920640696535277
+    second: ZnakiSprogowane_235
+  - first:
+      213: -7056608210452865982
+    second: ZnakiSprogowane_236
+  - first:
+      213: 1365938785522071036
+    second: ZnakiSprogowane_237
+  - first:
+      213: 6783571585449469028
+    second: ZnakiSprogowane_238
+  - first:
+      213: -6660597195031010061
+    second: ZnakiSprogowane_239
+  - first:
+      213: 5438857242432571102
+    second: ZnakiSprogowane_240
+  - first:
+      213: 4916214828636537579
+    second: ZnakiSprogowane_241
+  - first:
+      213: 9110105039938966778
+    second: ZnakiSprogowane_242
+  - first:
+      213: 1905528519621620552
+    second: ZnakiSprogowane_243
+  - first:
+      213: -1282857143983454776
+    second: ZnakiSprogowane_244
+  - first:
+      213: -8189025235220623671
+    second: ZnakiSprogowane_245
+  - first:
+      213: 6146102159865536779
+    second: ZnakiSprogowane_246
+  - first:
+      213: 8461785336056823
+    second: ZnakiSprogowane_247
+  - first:
+      213: 260004299738683217
+    second: ZnakiSprogowane_248
+  - first:
+      213: -7248805817860837434
+    second: ZnakiSprogowane_249
+  - first:
+      213: -751933800327278596
+    second: ZnakiSprogowane_250
+  - first:
+      213: 8101663476530930038
+    second: ZnakiSprogowane_251
+  - first:
+      213: 3548984759798273834
+    second: ZnakiSprogowane_252
+  - first:
+      213: -7922735446227464826
+    second: ZnakiSprogowane_253
+  - first:
+      213: 1336375093014240515
+    second: ZnakiSprogowane_254
+  - first:
+      213: 3623698222985091380
+    second: ZnakiSprogowane_255
+  - first:
+      213: -2961570550025445946
+    second: ZnakiSprogowane_256
+  - first:
+      213: -4159671393080345483
+    second: ZnakiSprogowane_257
+  - first:
+      213: -1288585648328103919
+    second: ZnakiSprogowane_258
+  - first:
+      213: 2770171405090069533
+    second: ZnakiSprogowane_259
+  - first:
+      213: 5591306036941402979
+    second: ZnakiSprogowane_260
+  - first:
+      213: -7727708989116057882
+    second: ZnakiSprogowane_261
+  - first:
+      213: -8260245417052448425
+    second: ZnakiSprogowane_262
+  - first:
+      213: 6261277596211907539
+    second: ZnakiSprogowane_263
+  - first:
+      213: 6240234987623327975
+    second: ZnakiSprogowane_264
+  - first:
+      213: -6889685660675486193
+    second: ZnakiSprogowane_265
+  - first:
+      213: 558235572527036794
+    second: ZnakiSprogowane_266
+  - first:
+      213: 6715232511314188997
+    second: ZnakiSprogowane_267
+  - first:
+      213: -5447913092183845813
+    second: ZnakiSprogowane_268
+  - first:
+      213: -8066709788891044226
+    second: ZnakiSprogowane_269
+  - first:
+      213: -7043532128636797726
+    second: ZnakiSprogowane_270
+  - first:
+      213: 1103036348952493683
+    second: ZnakiSprogowane_271
+  - first:
+      213: 2777960038182496443
+    second: ZnakiSprogowane_272
+  - first:
+      213: -5055985451420105434
+    second: ZnakiSprogowane_273
+  - first:
+      213: -7023186006198887564
+    second: ZnakiSprogowane_274
+  - first:
+      213: -8812558206940858001
+    second: ZnakiSprogowane_275
+  - first:
+      213: -2224232117828459896
+    second: ZnakiSprogowane_276
+  - first:
+      213: 2239086860496499648
+    second: ZnakiSprogowane_277
+  - first:
+      213: 4036936142396694442
+    second: ZnakiSprogowane_278
+  - first:
+      213: 5558235981163689389
+    second: ZnakiSprogowane_279
+  - first:
+      213: -1244151277569588881
+    second: ZnakiSprogowane_280
+  - first:
+      213: -1415795726720486092
+    second: ZnakiSprogowane_281
+  - first:
+      213: -2611250861287620063
+    second: ZnakiSprogowane_282
+  - first:
+      213: 376158325446619636
+    second: ZnakiSprogowane_283
+  - first:
+      213: 466930769102608343
+    second: ZnakiSprogowane_284
+  - first:
+      213: 6365277274475922386
+    second: ZnakiSprogowane_285
+  - first:
+      213: 8960482079149630529
+    second: ZnakiSprogowane_286
+  - first:
+      213: 8456041693925116497
+    second: ZnakiSprogowane_287
+  - first:
+      213: -3216158826319614378
+    second: ZnakiSprogowane_288
+  - first:
+      213: -2108216367915674533
+    second: ZnakiSprogowane_289
+  - first:
+      213: 6325694895103838987
+    second: ZnakiSprogowane_290
+  - first:
+      213: 7406487802692956112
+    second: ZnakiSprogowane_291
+  - first:
+      213: 5561116073644602328
+    second: ZnakiSprogowane_292
+  - first:
+      213: 3952052791827227429
+    second: ZnakiSprogowane_293
+  - first:
+      213: -642706129642444873
+    second: ZnakiSprogowane_294
+  - first:
+      213: -2877604797027404212
+    second: ZnakiSprogowane_295
+  - first:
+      213: 7968647834185017637
+    second: ZnakiSprogowane_296
+  - first:
+      213: -7256251124388178295
+    second: ZnakiSprogowane_297
+  - first:
+      213: 1746850343992961431
+    second: ZnakiSprogowane_298
+  - first:
+      213: 160754251416019302
+    second: ZnakiSprogowane_299
+  - first:
+      213: -7694554154805048857
+    second: ZnakiSprogowane_300
+  - first:
+      213: 95424468091238974
+    second: ZnakiSprogowane_301
+  - first:
+      213: -8358765104933816381
+    second: ZnakiSprogowane_302
+  - first:
+      213: -5614636481838001191
+    second: ZnakiSprogowane_303
+  - first:
+      213: 6902589507034961030
+    second: ZnakiSprogowane_304
+  - first:
+      213: 8497271212553495669
+    second: ZnakiSprogowane_305
+  - first:
+      213: 196701823715534332
+    second: ZnakiSprogowane_306
+  - first:
+      213: -7200425943790387001
+    second: ZnakiSprogowane_307
+  - first:
+      213: -3898144658834442726
+    second: ZnakiSprogowane_308
+  - first:
+      213: 2591069451365624049
+    second: ZnakiSprogowane_309
+  - first:
+      213: -7751624004724764156
+    second: ZnakiSprogowane_310
+  - first:
+      213: -6926495750020915669
+    second: ZnakiSprogowane_311
+  - first:
+      213: -1715593258462670353
+    second: ZnakiSprogowane_312
+  - first:
+      213: -5920559412469482556
+    second: ZnakiSprogowane_313
+  - first:
+      213: 3915552785961713661
+    second: ZnakiSprogowane_314
+  - first:
+      213: -4425921234373049926
+    second: ZnakiSprogowane_315
+  - first:
+      213: -3353615155001607775
+    second: ZnakiSprogowane_316
+  - first:
+      213: 5886562477073433003
+    second: ZnakiSprogowane_317
+  - first:
+      213: -4684400785105316811
+    second: ZnakiSprogowane_318
+  - first:
+      213: -976037714677611799
+    second: ZnakiSprogowane_319
+  - first:
+      213: 5522669568879205210
+    second: ZnakiSprogowane_320
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZnakiSprogowane_0
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1364
+        width: 78
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daf26e55a2b007a0800000000000000
+      internalID: -6412929446052693294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_1
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1461
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56258c6b3c758eb20800000000000000
+      internalID: 3163875236324594277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_2
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1364
+        width: 77
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cfb772074046380800000000000000
+      internalID: -8979046877324641233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_3
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1366
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d585e57bb5ddcbf0800000000000000
+      internalID: -302350598850378285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_4
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 1366
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70f720c361eec4e0800000000000000
+      internalID: -1959380969317732228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_5
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1461
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1105051342dc660800000000000000
+      internalID: 7407616756313756085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_6
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1461
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76986df5f360ff970800000000000000
+      internalID: 8790751866911099239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_7
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1366
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f68cd17c4a0a3d30800000000000000
+      internalID: 4411850108406892278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_8
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1366
+        width: 21
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb37a6e06a5f3ff90800000000000000
+      internalID: -6920918108783086658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_9
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1366
+        width: 47
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd0b6599eb45d360800000000000000
+      internalID: 7193739446400519673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_10
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 1461
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eca0871319276a0800000000000000
+      internalID: -6452935674415100378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_11
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 1461
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c887e08ab0cd280800000000000000
+      internalID: -9017319537477383074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_12
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 1461
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee467afe7a5963730800000000000000
+      internalID: 3978531869341213934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_13
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 1364
+        width: 57
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70d4b7248db37aa0800000000000000
+      internalID: -6164375089640583046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_14
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 1461
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8c54e89920f6280800000000000000
+      internalID: -9048010267823847227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_15
+      rect:
+        serializedVersion: 2
+        x: 4235
+        y: 1463
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4be7fdbd997a0a0800000000000000
+      internalID: -6870353536903891722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_16
+      rect:
+        serializedVersion: 2
+        x: 4337
+        y: 1366
+        width: 105
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06ac6fee77cfdf20800000000000000
+      internalID: 3449695187585771021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_17
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 1335
+        width: 120
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38acfc13722c1000800000000000000
+      internalID: 7919177150801981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_18
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 1366
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46ff4c0864ef6de0800000000000000
+      internalID: -1337599428771449265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1364
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511012c4ec02c9510800000000000000
+      internalID: 1557155641575932181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1307
+        width: 94
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e583a9f8c6931d0a0800000000000000
+      internalID: -6858637619080054690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1364
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab93ce4e9ea5a1130800000000000000
+      internalID: 3538240417867512250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_22
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1364
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472f872f6d9ff5b50800000000000000
+      internalID: 6584255881825284724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_23
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1364
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e67530f766d8c20800000000000000
+      internalID: 3210334805087973011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_24
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 1335
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c02b32395a8fc3a0800000000000000
+      internalID: -6642938809648734007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_25
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1335
+        width: 77
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa501e8cd214a8cf0800000000000000
+      internalID: -249315164466117206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_26
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1366
+        width: 19
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846f7146574950dd0800000000000000
+      internalID: -2520445184532548024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_27
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1335
+        width: 49
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc82a864ffb4b4b0800000000000000
+      internalID: -5425500594626196236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_28
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 1366
+        width: 127
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69791ce36009e1c0800000000000000
+      internalID: -4474044325653022353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_29
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 1366
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bd26186b96953b0800000000000000
+      internalID: -5523267235417498749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_30
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 1366
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee335050e456f2bd0800000000000000
+      internalID: -2652790269731851282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_31
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1364
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557ad07f0dc262cc0800000000000000
+      internalID: -3736249564847560875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_32
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1364
+        width: 80
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34590e6d96bcf8a0800000000000000
+      internalID: -6269935793934347204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_33
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 1335
+        width: 78
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9856f1c711b5bd30800000000000000
+      internalID: 4446654922694744221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_34
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 1366
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ef614d1265fe7c0800000000000000
+      internalID: -4039915637435859384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_35
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 1364
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9abb20fe2ef30e50800000000000000
+      internalID: 6774537742046706334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_36
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 1364
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a0ab9ab9a361470800000000000000
+      internalID: 8364937798129158689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_37
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 1364
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1281d65e18d93540800000000000000
+      internalID: 4988255687106724381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_38
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 1366
+        width: 116
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7273be7215be88a80800000000000000
+      internalID: -8464256765848242393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_39
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 1335
+        width: 87
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2ae18e9788e5d10800000000000000
+      internalID: 2116278932077454066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_40
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 1366
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2b1fc1d5f0afea0800000000000000
+      internalID: -5838337074340449567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_41
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 1366
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ec4b5799974d2d0800000000000000
+      internalID: -3254842930670285289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_42
+      rect:
+        serializedVersion: 2
+        x: 4209
+        y: 1366
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e8d2c5fe802be40800000000000000
+      internalID: 5670604704949571164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_43
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1307
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec154375d646ffdf0800000000000000
+      internalID: -144286242275307058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_44
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1307
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f267faba4cf099cb0800000000000000
+      internalID: -4856833385773959633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_45
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 1307
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0743fd3cd54b06a70800000000000000
+      internalID: 8818246385202574448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_46
+      rect:
+        serializedVersion: 2
+        x: 4235
+        y: 1307
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90894408a2512ef40800000000000000
+      internalID: 5756186546017703945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_47
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 1307
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e4e51722803b200800000000000000
+      internalID: 194508152930979403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1182
+        width: 97
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663d0c516f02a020800000000000000
+      internalID: 2351458866271434337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_49
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1182
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d442aaa8b1c5150800000000000000
+      internalID: 5862591097303485732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_50
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1184
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6855c83455dfa80800000000000000
+      internalID: -8431489178762115412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_51
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1184
+        width: 78
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68e94b04d6104280800000000000000
+      internalID: -9061217350291167126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_52
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1154
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6b37fc02c716a20800000000000000
+      internalID: 3053858502695171758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_53
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1184
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb4bc550c1191170800000000000000
+      internalID: 8149564518474402757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_54
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1182
+        width: 103
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e107a84ffbaa3ce0800000000000000
+      internalID: -1424637219185425945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_55
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1184
+        width: 87
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f598817a5867ad5b0800000000000000
+      internalID: -5342827691515541153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_56
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1184
+        width: 50
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201c21f9116cd28d0800000000000000
+      internalID: -2869419608579587838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_57
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1182
+        width: 56
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6ff120a3590e290800000000000000
+      internalID: -7863120873012594962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_58
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1184
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072ecb635aa532030800000000000000
+      internalID: 3468715803639865968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_59
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1184
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6c22614c63b8d60800000000000000
+      internalID: 7893462987709793953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_60
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1184
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1326911f22e913ff0800000000000000
+      internalID: -58091447268056527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_61
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1184
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39253b52e11897c0800000000000000
+      internalID: -4064478999811380931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_62
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1184
+        width: 87
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd2026f853db0ba0800000000000000
+      internalID: -6121566889440170531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_63
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 1184
+        width: 87
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c219fdf40e577b5c0800000000000000
+      internalID: -4199758521226522324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_64
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 1182
+        width: 106
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2102e97e91c7ab950800000000000000
+      internalID: 6465616665745694738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_65
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1182
+        width: 109
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d6e25017c34a3b0800000000000000
+      internalID: -5502206388624003836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_66
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 1184
+        width: 78
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51f377570b53be00800000000000000
+      internalID: 1059290424452313437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_67
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 1184
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c049a9a46241cd090800000000000000
+      internalID: -8008503882678627316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_68
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1182
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32744616e0f2a5650800000000000000
+      internalID: 6222337573975770915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_69
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 1182
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e24e4a39d71a2e0800000000000000
+      internalID: -2116272276807340519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_70
+      rect:
+        serializedVersion: 2
+        x: 3383
+        y: 1184
+        width: 99
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb36b606e5dde2f0800000000000000
+      internalID: -941861563118765087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_71
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 1182
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32c7692ba5220e40800000000000000
+      internalID: 5621096701976101435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_72
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 1184
+        width: 139
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84415aa211259840800000000000000
+      internalID: 5230122906311279757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_73
+      rect:
+        serializedVersion: 2
+        x: 3893
+        y: 1184
+        width: 98
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf067cf59e1ffe50800000000000000
+      internalID: 6845223588160999350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_74
+      rect:
+        serializedVersion: 2
+        x: 4046
+        y: 1184
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589c5a15e2698c050800000000000000
+      internalID: 5821067644058847621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_75
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 1184
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbca9f72b86eaa420800000000000000
+      internalID: 2642177616751733948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_76
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 1184
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8b16e78dbcdaf30800000000000000
+      internalID: 4588547726054111473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_77
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 1215
+        width: 21
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e24d63869d2bb980800000000000000
+      internalID: -8522167745395211543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_78
+      rect:
+        serializedVersion: 2
+        x: 4629
+        y: 1168
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ac8c688042f9ee0800000000000000
+      internalID: -1252242552346064341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_79
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 1184
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438bfe26fde5bcbf0800000000000000
+      internalID: -303044236386781132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_80
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1002
+        width: 101
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ecf9905b12a2b50800000000000000
+      internalID: 6569100067907554927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_81
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 976
+        width: 80
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01be9f75226b98590800000000000000
+      internalID: -7671400231627789552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_82
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1047
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4aa8bdb07afb4e0800000000000000
+      internalID: -1963667243140471636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_83
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1002
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f6dc47743cd73f0800000000000000
+      internalID: -901349638734516450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_84
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1052
+        width: 102
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d865b42b3bd64c40800000000000000
+      internalID: 5496321442317691088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_85
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1000
+        width: 111
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2850968a575b1c5d0800000000000000
+      internalID: -3043952356184488574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_86
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1047
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd636331c365f51d0800000000000000
+      internalID: -3359871980974754083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_87
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 972
+        width: 50
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6d4a4b6eb1d4850800000000000000
+      internalID: 6362772526231508655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_88
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 972
+        width: 51
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f57ab2d687b80d0800000000000000
+      internalID: -3419507081778602122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_89
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1005
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51290b74ea6da0320800000000000000
+      internalID: 2525066585109991957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_90
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1059
+        width: 94
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c171e420eedb6a0800000000000000
+      internalID: -6431722999147717576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_91
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 974
+        width: 74
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1225c22538bdeac00800000000000000
+      internalID: 913909131468624417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_92
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 974
+        width: 42
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59365561c40edbda0800000000000000
+      internalID: -5927334917152873579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_93
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 974
+        width: 75
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b7b8c31a7631840800000000000000
+      internalID: 5193608737491483439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_94
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 974
+        width: 45
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ccf983dca995600800000000000000
+      internalID: 457567043363785820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_95
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1064
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f333dd82d7d0b60800000000000000
+      internalID: 7713959351218814771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_96
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1064
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99430f68253b72060800000000000000
+      internalID: 6928703718765376665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_97
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 1073
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64835ffd675797ec0800000000000000
+      internalID: -3568692076290426810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_98
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 1073
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af9550625a1bcb70800000000000000
+      internalID: 8920252428043263909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_99
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 1073
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031d61fd24b8cf410800000000000000
+      internalID: 1512236694216560944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_100
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 974
+        width: 19
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef4610c036e66da0800000000000000
+      internalID: -5951816760468025371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_101
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 979
+        width: 71
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af9dbd0e9bd83050800000000000000
+      internalID: 5780611593611878311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_102
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 1008
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0afc9ae08391b240800000000000000
+      internalID: 4805784459282283019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_103
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 1008
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a235c1dea5a1530800000000000000
+      internalID: 3826470807833619043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_104
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 979
+        width: 71
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8cfbbeb9548ff20800000000000000
+      internalID: 3456589249984317618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_105
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 1031
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a738ed9c9a3fe0e0800000000000000
+      internalID: -2238506045441296478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_106
+      rect:
+        serializedVersion: 2
+        x: 3954
+        y: 1035
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1d27fd1704ec260800000000000000
+      internalID: 7119698918743658993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_107
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 984
+        width: 102
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815a87dd5c78b27f0800000000000000
+      internalID: -636265638448814824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_108
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 1024
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5810ca03f4e14d130800000000000000
+      internalID: 3590528128388956549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_109
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 969
+        width: 85
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afe33db3cb2eb110800000000000000
+      internalID: 1278507463912714147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_110
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 998
+        width: 102
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fba52d967ff06d0800000000000000
+      internalID: -3021924791069524102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_111
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1000
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b05cfb813d32120800000000000000
+      internalID: 2387984330686532487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_112
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 1043
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d5dee3f2ba55a80800000000000000
+      internalID: -8478682504047534809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_113
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1028
+        width: 94
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442d359490f5f32b0800000000000000
+      internalID: -5602654917936033212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_114
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1002
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7564d5eaa1d1556c0800000000000000
+      internalID: -4155383080747710889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_115
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 974
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b0c3e6c7665db60800000000000000
+      internalID: 7770229416709065548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_116
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 974
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0984a6fa8a778f870800000000000000
+      internalID: 8716848645156784272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_117
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1002
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b9a088fdd468420800000000000000
+      internalID: 2631876654700075847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_118
+      rect:
+        serializedVersion: 2
+        x: 3841
+        y: 1002
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2d2fdaa65fb9740800000000000000
+      internalID: 5159987636616745668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_119
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 981
+        width: 102
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f21f166ec686cfc0800000000000000
+      internalID: -3474941841435061516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 790
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a574094cbab1442d0800000000000000
+      internalID: -3295478602777213094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_121
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 816
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae2ada7bc1ef3080800000000000000
+      internalID: -9205390849266274655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_122
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 804
+        width: 110
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773f0915c7107a020800000000000000
+      internalID: 2352850963780399991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_123
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 790
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01004323be5f4d30800000000000000
+      internalID: 4417853882957299980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_124
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 818
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e2427b8c383ecb0800000000000000
+      internalID: -4835876676776481148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_125
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 804
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a9e7d9c917a85a0800000000000000
+      internalID: -6518272593194214770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_126
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 804
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3bf82e569e81860800000000000000
+      internalID: 7501001803187598321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_127
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 818
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aff454db250a900800000000000000
+      internalID: 693645315480222327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_128
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 887
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f779737f13df0b50800000000000000
+      internalID: 6561695314136889328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_129
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 806
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3e2d9fab0171b10800000000000000
+      internalID: 1952047358729708495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_130
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 806
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe1bf9fe75abb2c0800000000000000
+      internalID: -4414753044928192781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_131
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 788
+        width: 151
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186bb996e8ee47140800000000000000
+      internalID: 4716657005188331137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_132
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 790
+        width: 94
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee54f412ced22090800000000000000
+      internalID: -8060635457883185428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_133
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 886
+        width: 135
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d94c38113c4eab0800000000000000
+      internalID: -4979640807972365006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_134
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 790
+        width: 59
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eb75fca8e257500800000000000000
+      internalID: 393271716183785022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_135
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 790
+        width: 59
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06c9d51aeb3d3c50800000000000000
+      internalID: 6646534501643699722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_136
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 806
+        width: 130
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d838716b7ff86990800000000000000
+      internalID: -7392377882947340080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_137
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 776
+        width: 74
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057da8681cb097740800000000000000
+      internalID: 5150160574688712528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_138
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 776
+        width: 71
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97d17f2a348b6de0800000000000000
+      internalID: -1338831078773631076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_139
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 804
+        width: 111
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb98b53ab131d2ff0800000000000000
+      internalID: -59370210660218434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_140
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 783
+        width: 69
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f279b8a5b04c3e0800000000000000
+      internalID: -2034488648147718344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_141
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 773
+        width: 82
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dae88ad41b4eba30800000000000000
+      internalID: 4232903252712680153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_142
+      rect:
+        serializedVersion: 2
+        x: 3775
+        y: 785
+        width: 101
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94aa3813a326a290800000000000000
+      internalID: -7879571314644966241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_143
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 797
+        width: 137
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3a3f3a09be4fae0800000000000000
+      internalID: -1516328168058543146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_144
+      rect:
+        serializedVersion: 2
+        x: 4039
+        y: 797
+        width: 137
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ead33b3e15b4c040800000000000000
+      internalID: 4667054255309576933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_145
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 804
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92210b25b1e17c30800000000000000
+      internalID: 4355510482870805151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_146
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 804
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3242bf2d684716300800000000000000
+      internalID: 243603977268831267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_147
+      rect:
+        serializedVersion: 2
+        x: 4481
+        y: 804
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45469d8895133f8f0800000000000000
+      internalID: -508008072344935340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_148
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 816
+        width: 144
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e98f7768179e8940800000000000000
+      internalID: 5300339942533073381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_149
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 851
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b007407b5343c01c0800000000000000
+      internalID: -4536193319360499701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_150
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 851
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bddba81069183520800000000000000
+      internalID: 2681921478620601784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_151
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 816
+        width: 146
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ac66f4133cf4210800000000000000
+      internalID: 1319487832395794985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_152
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 816
+        width: 144
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce122340fc254610800000000000000
+      internalID: 1604738252657532620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_153
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 804
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b376ca6319f5c2de0800000000000000
+      internalID: -1356604310453196997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_154
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 816
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491fd8ce9dc142380800000000000000
+      internalID: -8997034433277202028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_155
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 608
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbf1078001a01850800000000000000
+      internalID: 6345748898602154969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_156
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 608
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d93a7f11d8421b0800000000000000
+      internalID: -5682261721526067941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_157
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 584
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28bdb6046002eae0800000000000000
+      internalID: -1521653294487979987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_158
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 584
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab8279676d9a61c0800000000000000
+      internalID: -4509619009381823570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_159
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 608
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476c201d649a96c30800000000000000
+      internalID: 4353196636449719924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_160
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 608
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1dd586bed765af0800000000000000
+      internalID: -408000266208685599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_161
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 575
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8f15b29ff10c040800000000000000
+      internalID: 4665764368989944002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_162
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 571
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ac86640a83cac90800000000000000
+      internalID: -7157283446771365292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_163
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 575
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21ae488f2e433620800000000000000
+      internalID: 2752629763310788907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_164
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 563
+        width: 97
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0f85f18d8435c20800000000000000
+      internalID: 3193976653811871989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_165
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 589
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c330a64e046a950800000000000000
+      internalID: 6459922065284873370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_166
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 589
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053047b03841bfc80800000000000000
+      internalID: -8288008136179842224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_167
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 587
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978d5c574482a0d10800000000000000
+      internalID: 2092529251365804153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_168
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 587
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21189fc9903035520800000000000000
+      internalID: 2689496742293504274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_169
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 575
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e460d158ea36311b0800000000000000
+      internalID: -5687092303230073266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_170
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 573
+        width: 116
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caacb88eb64b0f80800000000000000
+      internalID: -8139334117390243131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_171
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 584
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8ce544fcbef2a50800000000000000
+      internalID: 6498672062756735167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_172
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 573
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d55887de6eec8e60800000000000000
+      internalID: 7966004000741414357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_173
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 573
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8870072f00d979c70800000000000000
+      internalID: 8977817009579362184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_174
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 584
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad83a466956ee9490800000000000000
+      internalID: -7737493838133315366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_175
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 575
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3705f520b16bdf90800000000000000
+      internalID: -6927836192600422596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_176
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 575
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da7745fc41cf3cc0800000000000000
+      internalID: -3729049430162703657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_177
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 575
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03e0554d15cd6010800000000000000
+      internalID: 1183819006575960845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_178
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 575
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a570960e63cebc080800000000000000
+      internalID: -9165972896145143974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_179
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 575
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487a284f23e7cdba0800000000000000
+      internalID: -6062832241031862396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_180
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 575
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2966511527ffef0e0800000000000000
+      internalID: -2234067498677475694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_181
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 575
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8fb9e2b84054130800000000000000
+      internalID: 3550248877080443101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_182
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 540
+        width: 106
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6404e3ae51fd25780800000000000000
+      internalID: -8695642645281750970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_183
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 554
+        width: 103
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b808d4597ac2e9d0800000000000000
+      internalID: -2746410200279283529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_184
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 542
+        width: 83
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab86c241c609ed70800000000000000
+      internalID: 9072790351433337772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_185
+      rect:
+        serializedVersion: 2
+        x: 3772
+        y: 583
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b4a150770ba5280800000000000000
+      internalID: -9053730075641754792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_186
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 594
+        width: 113
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442e09c411fdb8f00800000000000000
+      internalID: 1120234197723701828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_187
+      rect:
+        serializedVersion: 2
+        x: 4091
+        y: 542
+        width: 59
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eac93840049efca0800000000000000
+      internalID: -5981180526168782110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_188
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 608
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3a9b1143e08b2d0800000000000000
+      internalID: -3262842313231457331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_189
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 573
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa31d808656b786b0800000000000000
+      internalID: -5294062354310556758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_190
+      rect:
+        serializedVersion: 2
+        x: 4431
+        y: 528
+        width: 116
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6213cc89b9e20f0800000000000000
+      internalID: -1139802575115049285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_191
+      rect:
+        serializedVersion: 2
+        x: 4580
+        y: 528
+        width: 115
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e62f3a20e91d730800000000000000
+      internalID: 4022169676396260928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_192
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 471
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d31fd5f18bd3800800000000000000
+      internalID: 593833170742361485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_193
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 471
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7249cbabd859b1520800000000000000
+      internalID: 2673895239730369575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_194
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 471
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cb54bc013cfd8c0800000000000000
+      internalID: -3972241869420250023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_195
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 471
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506a9b62db0e6f8a0800000000000000
+      internalID: -6271578328063695355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_196
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 471
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59715a3d465052660800000000000000
+      internalID: 7360295096612624277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_197
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 471
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db468b76061f2fc80800000000000000
+      internalID: -8290298567676369731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_198
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 332
+        width: 122
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77bb50b470c3c210800000000000000
+      internalID: 1352135920548820860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_199
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 337
+        width: 137
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b8ae9925f0331b0800000000000000
+      internalID: -5678177857740043498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_200
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 387
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de382fd5d1c3390800000000000000
+      internalID: -7837356962193609431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_201
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 398
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec79e00b7d8aca050800000000000000
+      internalID: 5813206863353649102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_202
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 452
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e065c0bd8892f8f40800000000000000
+      internalID: 5732846518433240590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_203
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 452
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c789778de69d2d1e0800000000000000
+      internalID: -2174436599965181828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_204
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 452
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3373594a563ee4930800000000000000
+      internalID: 4129487934037767987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_205
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 452
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592b7c485ec794640800000000000000
+      internalID: 5064716581171868309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_206
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 452
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca0e79970f5f4de0800000000000000
+      internalID: -1346753277315904823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_207
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 452
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b81ec0caaee805c0800000000000000
+      internalID: -4248883831277479752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_208
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 339
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb72f72174655f50800000000000000
+      internalID: 6869507243787844555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_209
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 424
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0c5ba584012ac60800000000000000
+      internalID: 7827837005268893931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_210
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 341
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c422f4e7a2dcbe0800000000000000
+      internalID: -1455460382588908433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_211
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 333
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a33ff08d1183800800000000000000
+      internalID: 592242970677426812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_212
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 344
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb610565ef69fbe0800000000000000
+      internalID: -1442999174562747470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_213
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 344
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260d285f6eb8972d0800000000000000
+      internalID: -3280437029484965790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_214
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 388
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ef293babfed82f0800000000000000
+      internalID: -968854759659078081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_215
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 329
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce071bfe3e7c98d20800000000000000
+      internalID: 3281373585309004012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_216
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 313
+        width: 76
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee69d988a5eac0620800000000000000
+      internalID: 2741757977024108270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_217
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 313
+        width: 68
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236ee115930ecffe0800000000000000
+      internalID: -1153800867734952398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_218
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 329
+        width: 106
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d166a03705bb1e0800000000000000
+      internalID: -2181061139504947965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_219
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 344
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c4a08751f6d1f40800000000000000
+      internalID: 5700834841319853141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_220
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 344
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c283c42da300a7a0800000000000000
+      internalID: -6368085830920863039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_221
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 356
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f405f7518445a80800000000000000
+      internalID: -8479072941264318589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_222
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 424
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef479e576a6ee9f0800000000000000
+      internalID: -437295121607208987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_223
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 433
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de578ebeef16b0030800000000000000
+      internalID: 3461968486071825901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_224
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 433
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bdef00ae3efa1b0800000000000000
+      internalID: -5643041213893387447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_225
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 433
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d5095a77454f3c0800000000000000
+      internalID: -4326740469140660987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_226
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 433
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6246038e18630f3b0800000000000000
+      internalID: -5480820814935727066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_227
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 433
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f963e3dfa840c210800000000000000
+      internalID: 1351159808222521843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_228
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 433
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b019cfbcf67c8de80800000000000000
+      internalID: -8153547842376658677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_229
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 339
+        width: 96
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860b47e0c723f5e40800000000000000
+      internalID: 5647287966145753192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_230
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 344
+        width: 78
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b63016cf355bf070800000000000000
+      internalID: 8141194483796555442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_231
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 344
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461122722918e4790800000000000000
+      internalID: -7543949861077249692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_232
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 339
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be52ffbf7aa73e5d0800000000000000
+      internalID: -3034446862011652629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_233
+      rect:
+        serializedVersion: 2
+        x: 4587
+        y: 346
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a15a5a04dd718f0800000000000000
+      internalID: -569743558112372136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_234
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 415
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f595244325a85f620800000000000000
+      internalID: 2807302028404087135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_235
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 415
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de843df133ec14b30800000000000000
+      internalID: 4269920640696535277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_236
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 415
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c1ad85834e11e90800000000000000
+      internalID: -7056608210452865982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_237
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 415
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5b8ff961ac4f210800000000000000
+      internalID: 1365938785522071036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_238
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 415
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46426238a66142e50800000000000000
+      internalID: 6783571585449469028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_239
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 415
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4a636f32ec093a0800000000000000
+      internalID: -6660597195031010061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_240
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 372
+        width: 141
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6014f78d3ba7b40800000000000000
+      internalID: 5438857242432571102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_241
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 341
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be28364e657e93440800000000000000
+      internalID: 4916214828636537579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_242
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 353
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4de0434489d6e70800000000000000
+      internalID: 9110105039938966778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_243
+      rect:
+        serializedVersion: 2
+        x: 4105
+        y: 353
+        width: 132
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8433c69b71cc17a10800000000000000
+      internalID: 1905528519621620552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_244
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 417
+        width: 94
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c54b437930623ee0800000000000000
+      internalID: -1282857143983454776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_245
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 388
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce07f59fecba5e80800000000000000
+      internalID: -8189025235220623671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_246
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 389
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01eb08d9575b4550800000000000000
+      internalID: 6146102159865536779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_247
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 398
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb0f1de2ff0e1000800000000000000
+      internalID: 8461785336056823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_248
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 398
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1579ff57888bb9300800000000000000
+      internalID: 260004299738683217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_249
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 398
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfae94b381176b90800000000000000
+      internalID: -7248805817860837434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_250
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 398
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff02e841389095f0800000000000000
+      internalID: -751933800327278596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_251
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 398
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671e168e104ee6070800000000000000
+      internalID: 8101663476530930038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_252
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 398
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a271d01f5d6804130800000000000000
+      internalID: 3548984759798273834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_253
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 374
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d473e861acc0290800000000000000
+      internalID: -7922735446227464826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_254
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 354
+        width: 146
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d1bc11112cb8210800000000000000
+      internalID: 1336375093014240515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_255
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 386
+        width: 94
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4399d3aa556f94230800000000000000
+      internalID: 3623698222985091380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_256
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 370
+        width: 92
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd997c964366e6d0800000000000000
+      internalID: -2961570550025445946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_257
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 379
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c771928e0e546c0800000000000000
+      internalID: -4159671393080345483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_258
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 379
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118acb81e260e1ee0800000000000000
+      internalID: -1288585648328103919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_259
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 379
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c96574730a17620800000000000000
+      internalID: 2770171405090069533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_260
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 379
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363b362773f489d40800000000000000
+      internalID: 5591306036941402979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_261
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 379
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6f4281e99a1c490800000000000000
+      internalID: -7727708989116057882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_262
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 379
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7595a0fce86bd5d80800000000000000
+      internalID: -8260245417052448425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_263
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 296
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db8252dcc684e650800000000000000
+      internalID: 6261277596211907539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_264
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 353
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8a048b8a4c99650800000000000000
+      internalID: 6240234987623327975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_265
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 360
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ec55d056be260a0800000000000000
+      internalID: -6889685660675486193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_266
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 360
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79f579ab404fb700800000000000000
+      internalID: 558235572527036794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_267
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 360
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca5905e36c413d50800000000000000
+      internalID: 6715232511314188997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_268
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 360
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b449e2d28ef1564b0800000000000000
+      internalID: -5447913092183845813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_269
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 360
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76abfeaf2a4d0090800000000000000
+      internalID: -8066709788891044226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_270
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 360
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec7d84e8d8504e90800000000000000
+      internalID: -7043532128636797726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_271
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 358
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e38a917b5ce4f00800000000000000
+      internalID: 1103036348952493683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_272
+      rect:
+        serializedVersion: 2
+        x: 4261
+        y: 353
+        width: 94
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8291cbfeb4d8620800000000000000
+      internalID: 2777960038182496443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_273
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 344
+        width: 92
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625cf8a050885d9b0800000000000000
+      internalID: -5055985451420105434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_274
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 342
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b550da981a88e90800000000000000
+      internalID: -7023186006198887564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_275
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 342
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6936d0700183b580800000000000000
+      internalID: -8812558206940858001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_276
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 342
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882e1de5ca0f121e0800000000000000
+      internalID: -2224232117828459896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_277
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 342
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3732de2a5d21f10800000000000000
+      internalID: 2239086860496499648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_278
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 342
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf9d7c6804160830800000000000000
+      internalID: 4036936142396694442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_279
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 342
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da57e031d22d22d40800000000000000
+      internalID: 5558235981163689389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_280
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 325
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61cd9d3103ebbee0800000000000000
+      internalID: -1244151277569588881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_281
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 325
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4353f4aa9451a5ce0800000000000000
+      internalID: -1415795726720486092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_282
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 325
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122c4893d29f2cbd0800000000000000
+      internalID: -2611250861287620063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_283
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 325
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f13d870102683500800000000000000
+      internalID: 376158325446619636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_284
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 325
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d79f038f0fda7600800000000000000
+      internalID: 466930769102608343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_285
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 325
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3010ad4f1065850800000000000000
+      internalID: 6365277274475922386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_286
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 306
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144a7ffe9f60a5c70800000000000000
+      internalID: 8960482079149630529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_287
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 306
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a8c4c5e15e95570800000000000000
+      internalID: 8456041693925116497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_288
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 306
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e6bff5698ed53d0800000000000000
+      internalID: -3216158826319614378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_289
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 306
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54d8b8126c1eb2e0800000000000000
+      internalID: -2108216367915674533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_290
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 306
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b8a2cfdf169c750800000000000000
+      internalID: 6325694895103838987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_291
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 306
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfe6c05a6129c660800000000000000
+      internalID: 7406487802692956112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_292
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 149
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d33d4cda9d0d2d40800000000000000
+      internalID: 5561116073644602328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_293
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 164
+        width: 93
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e376431388d630800000000000000
+      internalID: 3952052791827227429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_294
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 164
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b722b72e26a417f0800000000000000
+      internalID: -642706129642444873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_295
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 112
+        width: 89
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46b83deea1b018d0800000000000000
+      internalID: -2877604797027404212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_296
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 110
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529a8c84cf2569e60800000000000000
+      internalID: 7968647834185017637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_297
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 110
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98650d13c0e9c4b90800000000000000
+      internalID: -7256251124388178295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_298
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 112
+        width: 87
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7992875f12f0e3810800000000000000
+      internalID: 1746850343992961431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_299
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 89
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66129c3d32d1b3200800000000000000
+      internalID: 160754251416019302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_300
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 112
+        width: 87
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9c6d183c3773590800000000000000
+      internalID: -7694554154805048857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_301
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 110
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a75735c04035100800000000000000
+      internalID: 95424468091238974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_302
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 65
+        width: 115
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c73d777c63bffb80800000000000000
+      internalID: -8358765104933816381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_303
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 112
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3d81d0eddc412b0800000000000000
+      internalID: -5614636481838001191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_304
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 110
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684582dc59ceacf50800000000000000
+      internalID: 6902589507034961030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_305
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 110
+        width: 111
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5746768b52f5ce570800000000000000
+      internalID: 8497271212553495669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_306
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 84
+        width: 76
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf56c393443dab200800000000000000
+      internalID: 196701823715534332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_307
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 110
+        width: 109
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c00edce0c2f21c90800000000000000
+      internalID: -7200425943790387001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_308
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 112
+        width: 47
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a163617061207e9c0800000000000000
+      internalID: -3898144658834442726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_309
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 112
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8a30d10f355f320800000000000000
+      internalID: 2591069451365624049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_310
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 112
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4025dfd9903bc6490800000000000000
+      internalID: -7751624004724764156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_311
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 110
+        width: 78
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e10c140d420ef90800000000000000
+      internalID: -6926495750020915669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_312
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 112
+        width: 87
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe11742650df038e0800000000000000
+      internalID: -1715593258462670353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_313
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 110
+        width: 75
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb39243592f5dda0800000000000000
+      internalID: -5920559412469482556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_314
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 110
+        width: 82
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfff98a6386d65630800000000000000
+      internalID: 3915552785961713661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_315
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 112
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1065d3618f392c0800000000000000
+      internalID: -4425921234373049926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_316
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 110
+        width: 82
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a933c4e8c09571d0800000000000000
+      internalID: -3353615155001607775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_317
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 110
+        width: 85
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba10b12726541b150800000000000000
+      internalID: 5886562477073433003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_318
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 126
+        width: 93
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5349c321e4aadfeb0800000000000000
+      internalID: -4684400785105316811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_319
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 138
+        width: 95
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2c149aeda6472f0800000000000000
+      internalID: -976037714677611799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ZnakiSprogowane_320
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 112
+        width: 95
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b97e866b674ac40800000000000000
+      internalID: 5522669568879205210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

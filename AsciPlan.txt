@@ -1,0 +1,24 @@
+TODO:
+    - Deal additional damage if collides with certain mask (e. g. obstacles) while in stagger
+    - Cut out limbs (arms) 
+        limbs have their own separated health controller while connected and collision 
+        when health falls down to 0 limbs are separated
+        they become separated rigidbodies with their own health and could be destroyed separately
+
+        Remember to ensure that connected arms will be destroyed if the whole body will be destroyed
+        and to ensure separated limbs wont be affected by body destruction
+    - combat vision correction pack
+        if target was not seen look at it for a second
+        if lost vision try to look around
+        if not seen try to search it
+    - attention mode for lost enemy search
+    - pain reaction -> look at with walk away
+                    -> hit instantly behind yourself
+    - touch reaction -> hit binstantly if the point is behind (if have enemy target? or at least increase probability)
+                     -> ignore
+                     -> look at with walk away
+
+    - constant transition check for state machine
+        - it is checked every frame if there should be a transition
+        
+

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6840579352065875208
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6840579352065875210}
+  - component: {fileID: 6840579352065875209}
+  m_Layer: 0
+  m_Name: tornado
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6840579352065875210
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6840579352065875208}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -28.66, y: -118.86, z: -1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6840579352065875209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6840579352065875208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dd9427c9a9420446a60160b6713f247, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nParticles:
+    min: 200
+    max: 200
+  sprites:
+  - {fileID: -8431489178762115412, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: 3449695187585771021, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: -4039915637435859384, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: 3468715803639865968, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: -6121566889440170531, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: 3210334805087973011, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: 6774537742046706334, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: -3736249564847560875, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: -302350598850378285, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: -1959380969317732228, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: -8464256765848242393, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: 2116278932077454066, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: -8008503882678627316, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: 1059290424452313437, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: -7863120873012594962, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: -2869419608579587838, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: 5621096701976101435, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: -941861563118765087, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: 5821067644058847621, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: -1424637219185425945, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  - {fileID: -4474044325653022353, guid: 9e3fa09d2d2af244c863dd3b8a18befb, type: 3}
+  particlePrefab: {fileID: 1827470596363539872, guid: de408e32e5c70134ebe1aa07bdb890c6,
+    type: 3}
+  distanceRange:
+    min: 0
+    max: 10
+  rotationSpeedRange:
+    min: 0.5
+    max: 2
+  height: 0
